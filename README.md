@@ -10,10 +10,18 @@
 ## Projects
 
 <a href="https://github.com/tenqo/NumCals">
-  <img width="48%" src="https://socialify.git.ci/tenqo/NumCals/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="NumCals" />
+  <img
+    width="48%"
+    src="https://socialify.git.ci/tenqo/NumCals/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark"
+    alt="NumCals"
+  />
 </a>
 <a href="https://github.com/tenqo/SysClock">
-  <img width="48%" src="https://socialify.git.ci/tenqo/SysClock/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="SysClock" />
+  <img
+    width="48%"
+    src="https://socialify.git.ci/tenqo/SysClock/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark"
+    alt="SysClock"
+  />
 </a>
 
 <br><br><br>
