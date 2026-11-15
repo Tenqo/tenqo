@@ -1,55 +1,25 @@
 
 <div align="center">
 
-<a href="https://github.com/tenqo">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3F8F52&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+tenqo"
-    alt="Hi, I'm tenqo"
-  />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3F8F52&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+tenqo" alt="Hi, I'm tenqo" />
 
-<p>building cool apps, games and random projects.</p>
+building cool apps, games and random projects.
 
 <br><br><br><br>
 
-<!-- PROJECTS -->
+## Projects
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/tenqo/NumCals">
-        <img
-          width="100%"
-          src="./numcals.svg"
-          alt="NumCals project"
-        />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/tenqo/SysClock">
-        <img
-          width="100%"
-          src="./sysclock.svg"
-          alt="SysClock project"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/tenqo/NumCals"><img width="48%" src="./numcals.svg" alt="NumCals" /></a><a href="https://github.com/tenqo/SysClock"><img width="48%" src="./sysclock.svg" alt="SysClock" /></a>
 
-<br><br><br>
+<br><br>
 
-<!-- ACHIEVEMENTS -->
+## Achievements
 
-<img
-  width="75%"
-  src="./achievements.svg"
-  alt="Tenqo achievements"
-/>
+<img width="75%" src="./achievements.svg" alt="Tenqo achievements" />
 
-<br><br><br>
+<br><br>
 
-<!-- CONTRIBUTIONS -->
+## Contributions
 
 <sub>── snake arena ──</sub>
 
@@ -60,12 +30,10 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/tenqo/tenqo/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/tenqo/tenqo/output/github-contribution-grid-snake.svg"
   />
-
   <img
     alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/tenqo/tenqo/output/github-contribution-grid-snake-dark.svg"
