@@ -23,15 +23,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./achievements-dark.svg"
+    srcset="https://raw.githubusercontent.com/tenqo/tenqo/main/achievements-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./achievements-light.svg"
+    srcset="https://raw.githubusercontent.com/tenqo/tenqo/main/achievements-light.svg"
   />
   <img
+    src="https://raw.githubusercontent.com/tenqo/tenqo/main/achievements-dark.svg"
     width="75%"
-    src="./achievements-dark.svg"
     alt="Achievements"
   />
 </picture>
