@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <a href="https://github.com/tenqo">
@@ -7,11 +8,9 @@
   />
 </a>
 
-<p>
-  building cool apps, games and random projects.
-</p>
+<p>building cool apps, games and random projects.</p>
 
-<br>
+<br><br><br><br>
 
 <!-- PROJECTS -->
 
@@ -31,31 +30,15 @@
   />
 </a>
 
-<br><br>
+<br><br><br>
 
 <!-- ACHIEVEMENTS -->
 
-<b>achievement unlocked</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/UNLOCKED-Made_something_work-3F8F52?style=for-the-badge" alt="Made something work" />
-
-<img src="https://img.shields.io/badge/UNLOCKED-Broke_something_else-315C3A?style=for-the-badge" alt="Broke something else" />
-
-<br>
-
-<img src="https://img.shields.io/badge/UNLOCKED-Fixed_it_somehow-3F8F52?style=for-the-badge" alt="Fixed it somehow" />
-
-<img src="https://img.shields.io/badge/UNLOCKED-Asked_ChatGPT-315C3A?style=for-the-badge" alt="Asked ChatGPT for help" />
-
-<br>
-
-<img src="https://img.shields.io/badge/LOCKED-Understanding_everything-1F2A22?style=for-the-badge" alt="Understanding everything" />
-
-<br><br>
-
-<sub>more achievements coming soon...</sub>
+<img
+  width="75%"
+  src="./achievements.svg"
+  alt="Tenqo achievements"
+/>
 
 <br><br><br>
 
