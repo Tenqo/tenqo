@@ -1,200 +1,44 @@
-<svg width="1200" height="350" viewBox="0 0 1200 350" fill="none"
-     xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
 
   <defs>
 
-    <!-- Dark background -->
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="350">
-      <stop offset="0%" stop-color="#060A08"/>
-      <stop offset="50%" stop-color="#09110D"/>
-      <stop offset="100%" stop-color="#060A08"/>
-    </linearGradient>
-
-    <!-- Green title gradient -->
-    <linearGradient id="titleGreen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#E8FFF0"/>
-      <stop offset="50%" stop-color="#4DFF88"/>
-      <stop offset="100%" stop-color="#16C95F"/>
-    </linearGradient>
-
-    <!-- Glow -->
-    <filter id="greenGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Reveal from LEFT to RIGHT -->
-    <clipPath id="textReveal">
-      <rect x="0" y="0" width="0" height="350">
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="160">
         <animate
           attributeName="width"
-          values="0;1200;1200"
-          keyTimes="0;0.45;1"
-          dur="5s"
+          values="0;800;800"
+          keyTimes="0;0.7;1"
+          dur="4s"
           repeatCount="indefinite"/>
       </rect>
     </clipPath>
 
-    <!-- Animated scan line -->
-    <linearGradient id="scanGradient" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00FF66" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#75FF9E" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#00FF66" stop-opacity="0"/>
-    </linearGradient>
-
   </defs>
 
+  <g clip-path="url(#reveal)">
 
-  <!-- BACKGROUND -->
-  <rect width="1200" height="350" rx="18" fill="url(#background)"/>
+    <text
+      x="400"
+      y="100"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="58"
+      font-weight="bold"
+      letter-spacing="2"
+      fill="#4DFF88"
+      filter="url(#glow)">
 
-
-  <!-- GRID -->
-  <g stroke="#1AFF6B" stroke-width="1" opacity="0.12">
-
-    <path d="M0 70H1200"/>
-    <path d="M0 140H1200"/>
-    <path d="M0 210H1200"/>
-    <path d="M0 280H1200"/>
-
-    <path d="M100 0V350"/>
-    <path d="M200 0V350"/>
-    <path d="M300 0V350"/>
-    <path d="M400 0V350"/>
-    <path d="M500 0V350"/>
-    <path d="M600 0V350"/>
-    <path d="M700 0V350"/>
-    <path d="M800 0V350"/>
-    <path d="M900 0V350"/>
-    <path d="M1000 0V350"/>
-    <path d="M1100 0V350"/>
-
-  </g>
-
-
-  <!-- SMALL FLOATING GREEN PARTICLES -->
-
-  <g fill="#32FF7E" filter="url(#greenGlow)">
-
-    <circle cx="110" cy="70" r="3">
-      <animate attributeName="opacity"
-               values="0.2;1;0.2"
-               dur="2s"
-               repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="1080" cy="280" r="3">
-      <animate attributeName="opacity"
-               values="1;0.2;1"
-               dur="3s"
-               repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="930" cy="70" r="2">
-      <animate attributeName="cy"
-               values="70;95;70"
-               dur="3s"
-               repeatCount="indefinite"/>
-    </circle>
-
-  </g>
-
-
-  <!-- LEFT TO RIGHT LOADING LINE -->
-
-  <rect x="120"
-        y="250"
-        width="0"
-        height="3"
-        rx="2"
-        fill="#38FF78"
-        filter="url(#greenGlow)">
-
-    <animate
-      attributeName="width"
-      values="0;960;960;0"
-      keyTimes="0;0.45;0.8;1"
-      dur="5s"
-      repeatCount="indefinite"/>
-
-  </rect>
-
-
-  <!-- MAIN TITLE: REVEALS LEFT TO RIGHT -->
-
-  <g clip-path="url(#textReveal)" filter="url(#greenGlow)">
-
-    <text x="600"
-          y="175"
-          text-anchor="middle"
-          fill="url(#titleGreen)"
-          font-family="'Courier New', monospace"
-          font-size="58"
-          font-weight="bold"
-          letter-spacing="2">
-
-      Hi, I'm tenqo 👋
+      Hi, I'm tenqo
 
     </text>
-
-  </g>
-
-
-  <!-- SUBTITLE -->
-
-  <g clip-path="url(#textReveal)">
-
-    <text x="600"
-          y="220"
-          text-anchor="middle"
-          fill="#86CFA1"
-          font-family="'Courier New', monospace"
-          font-size="18"
-          letter-spacing="1">
-
-      BUILDING COOL APPS • GAMES • PROJECTS
-
-    </text>
-
-  </g>
-
-
-  <!-- LOADING CURSOR -->
-
-  <rect x="0"
-        y="130"
-        width="4"
-        height="55"
-        fill="#55FF8B"
-        filter="url(#greenGlow)">
-
-    <animate
-      attributeName="x"
-      values="120;1080"
-      dur="2.25s"
-      repeatCount="indefinite"/>
-
-    <animate
-      attributeName="opacity"
-      values="0;1;1;0"
-      dur="2.25s"
-      repeatCount="indefinite"/>
-
-  </rect>
-
-
-  <!-- CORNER UI ELEMENTS -->
-
-  <g stroke="#36FF7A" stroke-width="2" opacity="0.6">
-
-    <path d="M30 70V30H70"/>
-    <path d="M1130 30H1170V70"/>
-
-    <path d="M30 280V320H70"/>
-    <path d="M1130 320H1170V280"/>
 
   </g>
 
