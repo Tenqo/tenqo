@@ -20,7 +20,21 @@
 
 ## Achievements
 
-<img width="75%" src="./achievements.svg" alt="Achievements" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./achievements-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./achievements-light.svg"
+  />
+  <img
+    width="75%"
+    src="./achievements-dark.svg"
+    alt="Achievements"
+  />
+</picture>
 
 <br><br><br>
 
