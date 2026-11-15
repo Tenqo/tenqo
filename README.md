@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=52&pause=1200&color=458045&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+tenqo" />
 
-<br><br><br>
+<br>
 
 <p>creating apps, games & whatever comes next.</p>
 
