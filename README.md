@@ -17,16 +17,15 @@
 <a href="https://github.com/tenqo/NumCals">
   <img
     width="48%"
-    src="https://socialify.git.ci/tenqo/NumCals/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark"
-    alt="NumCals"
+    src="./numcals.svg"
+    alt="NumCals project"
   />
 </a>
-
 <a href="https://github.com/tenqo/SysClock">
   <img
     width="48%"
-    src="https://socialify.git.ci/tenqo/SysClock/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark"
-    alt="SysClock"
+    src="./sysclock.svg"
+    alt="SysClock project"
   />
 </a>
 
