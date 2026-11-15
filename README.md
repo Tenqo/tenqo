@@ -35,24 +35,52 @@
 
 <!-- ACHIEVEMENTS -->
 
-<details open>
-<summary><b>achievement unlocked</b></summary>
+<h3>Achievements</h3>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<b>01</b><br>
+<sub>Made something<br>work</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<b>02</b><br>
+<sub>Broke something<br>else</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<b>03</b><br>
+<sub>Fixed it<br>somehow</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<b>04</b><br>
+<sub>Asked ChatGPT<br>for help</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+<b>05</b><br>
+<sub>Still figuring out<br>what happened</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-```text
-ACHIEVEMENTS
+<sub>unlocked achievements • more bugs coming soon</sub>
 
-[✓] Made something work
-[✓] Broke something else
-[✓] Fixed it somehow
-[✓] Asked ChatGPT for help
-[?] Actually understands all the code
-```
-
-</details>
-
-<br><br>
+<br><br><br>
 
 <!-- CONTRIBUTIONS -->
 
