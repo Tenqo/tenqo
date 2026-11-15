@@ -1,5 +1,7 @@
 <div align="center">
 
+<br><br><br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1200&color=458045&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+tenqo" />
 
 <br>
