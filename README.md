@@ -14,20 +14,28 @@
 
 <!-- PROJECTS -->
 
-<a href="https://github.com/tenqo/NumCals">
-  <img
-    width="48%"
-    src="./numcals.svg"
-    alt="NumCals project"
-  />
-</a>
-<a href="https://github.com/tenqo/SysClock">
-  <img
-    width="48%"
-    src="./sysclock.svg"
-    alt="SysClock project"
-  />
-</a>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/tenqo/NumCals">
+        <img
+          width="100%"
+          src="./numcals.svg"
+          alt="NumCals project"
+        />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/tenqo/SysClock">
+        <img
+          width="100%"
+          src="./sysclock.svg"
+          alt="SysClock project"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br><br><br>
 
