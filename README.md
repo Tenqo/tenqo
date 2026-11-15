@@ -1,21 +1,26 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3F8F52&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+tenqo" alt="Hi, I'm tenqo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3F8F52&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+tenqo" />
 
-building cool apps, games and random projects.
+<p>building cool apps, games and random projects.</p>
 
-<br><br><br><br>
+<br><br>
 
 ## Projects
 
-<a href="https://github.com/tenqo/NumCals"><img width="48%" src="./numcals.svg" alt="NumCals" /></a><a href="https://github.com/tenqo/SysClock"><img width="48%" src="./sysclock.svg" alt="SysClock" /></a>
+<a href="https://github.com/tenqo/NumCals">
+  <img width="48%" src="https://socialify.git.ci/tenqo/NumCals/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" />
+</a>
+<a href="https://github.com/tenqo/SysClock">
+  <img width="48%" src="https://socialify.git.ci/tenqo/SysClock/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" />
+</a>
 
 <br><br>
 
 ## Achievements
 
-<img width="75%" src="./achievements.svg" alt="Tenqo achievements" />
+<img width="75%" src="./achievements.svg" alt="Achievements" />
 
 <br><br>
 
