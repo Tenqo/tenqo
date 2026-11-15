@@ -35,50 +35,27 @@
 
 <!-- ACHIEVEMENTS -->
 
-<h3>Achievements</h3>
+<b>achievement unlocked</b>
 
-<table>
-<tr>
-<td align="center" width="20%">
+<br><br>
 
-<b>01</b><br>
-<sub>Made something<br>work</sub>
+<img src="https://img.shields.io/badge/UNLOCKED-Made_something_work-3F8F52?style=for-the-badge" alt="Made something work" />
 
-</td>
-
-<td align="center" width="20%">
-
-<b>02</b><br>
-<sub>Broke something<br>else</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<b>03</b><br>
-<sub>Fixed it<br>somehow</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<b>04</b><br>
-<sub>Asked ChatGPT<br>for help</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-<b>05</b><br>
-<sub>Still figuring out<br>what happened</sub>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/UNLOCKED-Broke_something_else-315C3A?style=for-the-badge" alt="Broke something else" />
 
 <br>
 
-<sub>unlocked achievements • more bugs coming soon</sub>
+<img src="https://img.shields.io/badge/UNLOCKED-Fixed_it_somehow-3F8F52?style=for-the-badge" alt="Fixed it somehow" />
+
+<img src="https://img.shields.io/badge/UNLOCKED-Asked_ChatGPT-315C3A?style=for-the-badge" alt="Asked ChatGPT for help" />
+
+<br>
+
+<img src="https://img.shields.io/badge/LOCKED-Understanding_everything-1F2A22?style=for-the-badge" alt="Understanding everything" />
+
+<br><br>
+
+<sub>more achievements coming soon...</sub>
 
 <br><br><br>
 
