@@ -1,113 +1,59 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270">
-  <rect width="900" height="270" rx="10" fill="#0d1117"/>
+  <rect width="900" height="270" rx="18" fill="#0d1117"/>
 
-  <g font-family="Arial, sans-serif">
-    <text x="28" y="38" fill="#e6edf3" font-size="20" font-weight="700">Achievements</text>
-    <text x="870" y="37" fill="#8b949e" font-size="12" text-anchor="end">4 / 5 unlocked</text>
+  <text x="35" y="43" fill="#e6edf3" font-family="Segoe UI, Arial" font-size="23" font-weight="700">Achievements</text>
+  <text x="865" y="43" text-anchor="end" fill="#3fb950" font-family="Segoe UI, Arial" font-size="13">4 / 5 UNLOCKED</text>
 
-    <!-- Snake trail -->
-    <g fill="#0e4429">
-      <rect x="28" y="57" width="14" height="14" rx="3"/>
-      <rect x="48" y="57" width="14" height="14" rx="3"/>
-      <rect x="68" y="57" width="14" height="14" rx="3"/>
-      <rect x="88" y="57" width="14" height="14" rx="3"/>
-      <rect x="108" y="57" width="14" height="14" rx="3"/>
-      <rect x="128" y="57" width="14" height="14" rx="3"/>
-      <rect x="148" y="57" width="14" height="14" rx="3"/>
-      <rect x="168" y="57" width="14" height="14" rx="3"/>
-      <rect x="188" y="57" width="14" height="14" rx="3"/>
-      <rect x="208" y="57" width="14" height="14" rx="3"/>
-      <rect x="228" y="57" width="14" height="14" rx="3"/>
-      <rect x="248" y="57" width="14" height="14" rx="3"/>
-      <rect x="268" y="57" width="14" height="14" rx="3"/>
-      <rect x="288" y="57" width="14" height="14" rx="3"/>
-      <rect x="308" y="57" width="14" height="14" rx="3"/>
-      <rect x="328" y="57" width="14" height="14" rx="3"/>
-      <rect x="348" y="57" width="14" height="14" rx="3"/>
-      <rect x="368" y="57" width="14" height="14" rx="3"/>
-      <rect x="388" y="57" width="14" height="14" rx="3"/>
-      <rect x="408" y="57" width="14" height="14" rx="3"/>
-      <rect x="428" y="57" width="14" height="14" rx="3"/>
-      <rect x="448" y="57" width="14" height="14" rx="3"/>
-      <rect x="468" y="57" width="14" height="14" rx="3"/>
-      <rect x="488" y="57" width="14" height="14" rx="3"/>
-      <rect x="508" y="57" width="14" height="14" rx="3"/>
-      <rect x="528" y="57" width="14" height="14" rx="3"/>
-      <rect x="548" y="57" width="14" height="14" rx="3"/>
-      <rect x="568" y="57" width="14" height="14" rx="3"/>
-      <rect x="588" y="57" width="14" height="14" rx="3"/>
-      <rect x="608" y="57" width="14" height="14" rx="3"/>
-      <rect x="628" y="57" width="14" height="14" rx="3"/>
-      <rect x="648" y="57" width="14" height="14" rx="3"/>
-      <rect x="668" y="57" width="14" height="14" rx="3"/>
-      <rect x="688" y="57" width="14" height="14" rx="3"/>
-      <rect x="708" y="57" width="14" height="14" rx="3"/>
-      <rect x="728" y="57" width="14" height="14" rx="3"/>
-      <rect x="748" y="57" width="14" height="14" rx="3"/>
-      <rect x="768" y="57" width="14" height="14" rx="3"/>
-      <rect x="788" y="57" width="14" height="14" rx="3"/>
-      <rect x="808" y="57" width="14" height="14" rx="3"/>
-      <rect x="828" y="57" width="14" height="14" rx="3"/>
-    </g>
-
-    <g fill="#238636">
-      <rect x="28" y="77" width="14" height="14" rx="3"/>
-      <rect x="68" y="77" width="14" height="14" rx="3"/>
-      <rect x="108" y="77" width="14" height="14" rx="3"/>
-      <rect x="148" y="77" width="14" height="14" rx="3"/>
-      <rect x="188" y="77" width="14" height="14" rx="3"/>
-      <rect x="228" y="77" width="14" height="14" rx="3"/>
-      <rect x="268" y="77" width="14" height="14" rx="3"/>
-      <rect x="308" y="77" width="14" height="14" rx="3"/>
-      <rect x="348" y="77" width="14" height="14" rx="3"/>
-      <rect x="388" y="77" width="14" height="14" rx="3"/>
-      <rect x="428" y="77" width="14" height="14" rx="3"/>
-      <rect x="468" y="77" width="14" height="14" rx="3"/>
-      <rect x="508" y="77" width="14" height="14" rx="3"/>
-      <rect x="548" y="77" width="14" height="14" rx="3"/>
-      <rect x="588" y="77" width="14" height="14" rx="3"/>
-      <rect x="628" y="77" width="14" height="14" rx="3"/>
-      <rect x="668" y="77" width="14" height="14" rx="3"/>
-      <rect x="708" y="77" width="14" height="14" rx="3"/>
-      <rect x="748" y="77" width="14" height="14" rx="3"/>
-      <rect x="788" y="77" width="14" height="14" rx="3"/>
-      <rect x="828" y="77" width="14" height="14" rx="3"/>
-    </g>
-
-    <!-- Snake head -->
-    <rect x="828" y="77" width="14" height="14" rx="3" fill="#3fb950"/>
-    <circle cx="832" cy="82" r="1.2" fill="#0d1117"/>
-    <circle cx="838" cy="82" r="1.2" fill="#0d1117"/>
-
-    <!-- Achievements -->
-    <g font-size="14">
-      <circle cx="40" cy="129" r="9" fill="#238636"/>
-      <text x="40" y="133" fill="#ffffff" font-size="12" text-anchor="middle">✓</text>
-      <text x="58" y="134" fill="#e6edf3">Made something work</text>
-
-      <circle cx="330" cy="129" r="9" fill="#238636"/>
-      <text x="330" y="133" fill="#ffffff" font-size="12" text-anchor="middle">✓</text>
-      <text x="348" y="134" fill="#e6edf3">Broke something else</text>
-
-      <circle cx="625" cy="129" r="9" fill="#238636"/>
-      <text x="625" y="133" fill="#ffffff" font-size="12" text-anchor="middle">✓</text>
-      <text x="643" y="134" fill="#e6edf3">Fixed it somehow</text>
-
-      <circle cx="40" cy="178" r="9" fill="#238636"/>
-      <text x="40" y="182" fill="#ffffff" font-size="12" text-anchor="middle">✓</text>
-      <text x="58" y="183" fill="#e6edf3">Asked ChatGPT</text>
-
-      <circle cx="330" cy="178" r="9" fill="#30363d"/>
-      <path d="M326 176V174A4 4 0 0 1 334 174V176 M325 176H335V183H325Z" fill="none" stroke="#8b949e" stroke-width="1.4"/>
-      <text x="348" y="183" fill="#8b949e">Understanding everything</text>
-    </g>
-
-    <text x="28" y="235" fill="#3fb950" font-size="11" font-weight="600" letter-spacing="1">
-      LEVEL 04
-    </text>
-    <text x="870" y="235" fill="#8b949e" font-size="11" text-anchor="end">
-      KEEP EXPLORING
-    </text>
+  <g fill="#238636">
+    <rect x="35" y="65" width="13" height="13" rx="3"/>
+    <rect x="54" y="65" width="13" height="13" rx="3"/>
+    <rect x="73" y="65" width="13" height="13" rx="3"/>
+    <rect x="92" y="65" width="13" height="13" rx="3"/>
+    <rect x="111" y="65" width="13" height="13" rx="3"/>
+    <rect x="130" y="65" width="13" height="13" rx="3"/>
+    <rect x="149" y="65" width="13" height="13" rx="3"/>
+    <rect x="168" y="65" width="13" height="13" rx="3"/>
+    <rect x="187" y="65" width="13" height="13" rx="3"/>
+    <rect x="206" y="65" width="13" height="13" rx="3"/>
+    <rect x="225" y="65" width="13" height="13" rx="3"/>
+    <rect x="244" y="65" width="13" height="13" rx="3"/>
+    <rect x="263" y="65" width="13" height="13" rx="3"/>
+    <rect x="282" y="65" width="13" height="13" rx="3"/>
+    <rect x="301" y="65" width="13" height="13" rx="3"/>
+    <rect x="320" y="65" width="13" height="13" rx="3"/>
   </g>
+
+  <g fill="#3fb950">
+    <rect x="339" y="65" width="13" height="13" rx="3"/>
+    <rect x="358" y="65" width="13" height="13" rx="3"/>
+    <rect x="377" y="65" width="13" height="13" rx="3"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial" font-size="15">
+    <circle cx="48" cy="111" r="9" fill="#238636"/>
+    <path d="M43 111 l4 4 7 -8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="116" fill="#e6edf3">Made something work</text>
+
+    <circle cx="48" cy="151" r="9" fill="#238636"/>
+    <path d="M43 151 l4 4 7 -8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="156" fill="#e6edf3">Broke something else</text>
+
+    <circle cx="48" cy="191" r="9" fill="#238636"/>
+    <path d="M43 191 l4 4 7 -8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="196" fill="#e6edf3">Fixed it somehow</text>
+
+    <circle cx="470" cy="111" r="9" fill="#238636"/>
+    <path d="M465 111 l4 4 7 -8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="492" y="116" fill="#e6edf3">Asked ChatGPT</text>
+
+    <circle cx="470" cy="151" r="9" fill="#21262d" stroke="#484f58"/>
+    <rect x="465" y="150" width="10" height="8" rx="1.5" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+    <path d="M467 150 v-3 a3 3 0 0 1 6 0 v3" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+    <text x="492" y="156" fill="#8b949e">Understanding everything</text>
+  </g>
+
+  <path d="M35 226 H865" stroke="#30363d" stroke-width="1"/>
+  <text x="35" y="250" fill="#3fb950" font-family="Consolas, monospace" font-size="11">LEVEL 04</text>
+  <text x="865" y="250" text-anchor="end" fill="#8b949e" font-family="Consolas, monospace" font-size="11">KEEP EXPLORING</text>
 </svg>
