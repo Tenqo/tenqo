@@ -1,11 +1,12 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=3F8F52&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+tenqo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1200&color=458045&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+tenqo" />
 
-<p>building cool apps, games and random projects.</p>
+<br>
 
-<br><br><br><br>
+<p>creating apps, games & whatever comes next.</p>
+
+<br><br>
 
 ## Projects
 
