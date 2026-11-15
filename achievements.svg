@@ -1,0 +1,72 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480">
+  <defs>
+    <pattern id="texture" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-width="1" opacity=".35"/>
+      <circle cx="2" cy="2" r="1" fill="#8b949e" opacity=".2"/>
+    </pattern>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="5" y="5" width="890" height="470" rx="22" fill="url(#background)" stroke="#30363d" stroke-width="2"/>
+  <rect x="6" y="6" width="888" height="468" rx="21" fill="url(#texture)"/>
+
+  <circle cx="820" cy="85" r="125" fill="#238636" opacity=".07"/>
+  <circle cx="820" cy="85" r="85" fill="none" stroke="#3fb950" opacity=".12"/>
+
+  <g font-family="Inter,Arial,sans-serif">
+    <text x="48" y="65" fill="#3fb950" font-size="14" font-weight="700" letter-spacing="3">TENQO / PROFILE</text>
+    <text x="48" y="112" fill="#e6edf3" font-size="32" font-weight="700">Achievements</text>
+    <text x="48" y="142" fill="#8b949e" font-size="15">A collection of things accomplished along the way.</text>
+
+    <rect x="710" y="48" width="142" height="34" rx="17" fill="#238636" opacity=".18" stroke="#3fb950" stroke-opacity=".5"/>
+    <text x="781" y="70" text-anchor="middle" fill="#3fb950" font-size="13" font-weight="700">4 / 5 UNLOCKED</text>
+
+    <path d="M48 170H852" stroke="#30363d"/>
+
+    <g font-size="17">
+      <g transform="translate(48 194)">
+        <circle cx="14" cy="0" r="11" fill="#238636"/>
+        <path d="M8 0L12 4L20 -5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="6" fill="#e6edf3" font-weight="600">Made something work</text>
+        <text x="804" y="6" fill="#3fb950" text-anchor="end" font-size="12">UNLOCKED</text>
+      </g>
+      <path d="M48 226H852" stroke="#30363d" opacity=".7"/>
+
+      <g transform="translate(48 252)">
+        <circle cx="14" cy="0" r="11" fill="#238636"/>
+        <path d="M8 0L12 4L20 -5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="6" fill="#e6edf3" font-weight="600">Broke something else</text>
+        <text x="804" y="6" fill="#3fb950" text-anchor="end" font-size="12">UNLOCKED</text>
+      </g>
+      <path d="M48 284H852" stroke="#30363d" opacity=".7"/>
+
+      <g transform="translate(48 310)">
+        <circle cx="14" cy="0" r="11" fill="#238636"/>
+        <path d="M8 0L12 4L20 -5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="6" fill="#e6edf3" font-weight="600">Fixed it somehow</text>
+        <text x="804" y="6" fill="#3fb950" text-anchor="end" font-size="12">UNLOCKED</text>
+      </g>
+      <path d="M48 342H852" stroke="#30363d" opacity=".7"/>
+
+      <g transform="translate(48 368)">
+        <circle cx="14" cy="0" r="11" fill="#238636"/>
+        <path d="M8 0L12 4L20 -5" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="6" fill="#e6edf3" font-weight="600">Asked ChatGPT</text>
+        <text x="804" y="6" fill="#3fb950" text-anchor="end" font-size="12">UNLOCKED</text>
+      </g>
+      <path d="M48 400H852" stroke="#30363d" opacity=".7"/>
+
+      <g transform="translate(48 426)">
+        <circle cx="14" cy="0" r="11" fill="#21262d" stroke="#8b949e"/>
+        <rect x="10" y="-5" width="8" height="8" rx="1" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+        <path d="M9 -5V-7A5 5 0 0 1 19 -7V-5" fill="none" stroke="#8b949e" stroke-width="1.5"/>
+        <text x="42" y="6" fill="#8b949e" font-weight="600">Understanding everything</text>
+        <text x="804" y="6" fill="#8b949e" text-anchor="end" font-size="12">LOCKED</text>
+      </g>
+    </g>
+  </g>
+</svg>
