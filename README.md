@@ -14,16 +14,23 @@
 
 <a href="https://github.com/tenqo/NumCals">
   <img
-    width="48%"
+    width="32%"
     src="https://socialify.git.ci/tenqo/NumCals/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark"
     alt="NumCals"
   />
 </a>
 <a href="https://github.com/tenqo/SysClock">
   <img
-    width="48%"
+    width="32%"
     src="https://socialify.git.ci/tenqo/SysClock/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark"
     alt="SysClock"
+  />
+</a>
+<a href="https://github.com/tenqo/UClean">
+  <img
+    width="32%"
+    src="https://socialify.git.ci/tenqo/UClean/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark"
+    alt="UClean"
   />
 </a>
 
