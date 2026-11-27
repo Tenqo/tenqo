@@ -2,7 +2,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&pause=10000&color=458045&center=true&vCenter=true&width=1100&height=120&speed=20&cursor=%7C&lines=Hi%2C+I%27m+tenqo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&pause=5000&color=458045&center=true&vCenter=true&width=1100&height=120&speed=25&deleteSpeed=15&deleteDelay=1000&cursor=%7C&lines=Hi%2C+I%27m+tenqo" />
 
 <br>
 
@@ -33,7 +33,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://socialify.git.ci/Tenqo/Numcals/image?description=1&language=1&name=1&owner=1&pattern=Floating+Cogs&theme=Light"
+      srcset="https://socialify.git.ci/TenQo/Numcals/image?description=1&language=1&name=1&owner=1&pattern=Floating+Cogs&theme=Light"
     />
     <source
       media="(prefers-color-scheme: dark)"
