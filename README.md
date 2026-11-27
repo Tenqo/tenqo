@@ -6,7 +6,7 @@
 
 <br>
 
-<p>creating apps, games & whatever comes next.</p>
+<p>I create apps, Websites, Games and Extensions.</p>
 
 <br><br>
 
